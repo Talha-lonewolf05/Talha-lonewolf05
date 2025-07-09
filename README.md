@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Talha
 - 👀 I’m interested in game development aqnd coding.
-- 🌱 I’m currently learning in my 3rd semester of computer science degree.
+- 🌱 I’m currently pursuing my computer science degree.
 - 💞️ I’m looking to collaborate on open-source project related to game development and or software development. 
 - 📫 How to reach me mtalhajawad739@gmail.com
 - 😄 Pronouns: He/him
